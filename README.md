@@ -1,3 +1,6 @@
+
+![multi-vendor eCommerce web application](./E_Com)
+
 # 🛒 E_commerce
 
 A complete **multi-vendor eCommerce web application** built using **React (with TypeScript)** for the frontend and **Spring Boot** for the backend. This project is ideal for **developers, students, and entrepreneurs** looking to build a **production-ready, scalable online store** from scratch.
