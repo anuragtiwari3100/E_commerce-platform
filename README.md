@@ -1,5 +1,5 @@
 
-![multi-vendor eCommerce web application](./E_Com)
+![multi-vendor eCommerce web application](E_Com.png)
 
 # 🛒 E_commerce
 
